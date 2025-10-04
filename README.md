@@ -1,6 +1,6 @@
 # MrChristopherHen's Cybersecurity Portfolio
 
-## Brief Introduciton: 
+## Brief Introduction: 
 Hi! I'm Christopher, a first year cybersecurity student with a passion for ethical hacking, digital forensics, and researching all aspects of Cybersecurity. I'm currently building my skills through Federation University with coursework, labs, and hands-on projects from TryHackMe. I'm still at the start of my cybersecurity journey, but I'm building my skills one lab, tool and challenge at a time. I will use this portfolio to track my progress as I grow into the field; from student to professional.
 
 ## What I'm currently learning:
