@@ -48,6 +48,6 @@ Hi! I'm Christopher, a first year cybersecurity student with a passion for ethic
 - Work towards my PhD to become an associate professor/professor for a research & teaching career
 
 ## Contact:
-christopherhenshaw@students.federation.edu.au
-https://www.linkedin.com/in/christopher-henshaw-382b6237a/
+- christopherhenshaw@students.federation.edu.au
+- https://www.linkedin.com/in/christopher-henshaw-382b6237a/
 
