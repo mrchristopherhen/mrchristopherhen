@@ -1,53 +1,74 @@
-# MrChristopherHen's Cybersecurity Portfolio
+🧠 MrChristopherHen’s Cybersecurity Portfolio
 
-### Christopher Henshaw - 30342470
+Christopher Henshaw — 30342470
 
-## Brief Introduction: 
-Hi! I'm Christopher, a first year cybersecurity student with a passion for ethical hacking, digital forensics, and researching all aspects of Cybersecurity. I'm currently building my skills through Federation University with coursework, labs, and hands-on projects from TryHackMe. I'm still at the start of my cybersecurity journey, but I'm building my skills one lab, tool and challenge at a time. I will use this portfolio to track my progress as I grow into the field; from student to professional.
+⸻
 
-## What I'm currently learning:
-- Linux Fundamentals & Bash
-- Networking Fundamentals (TCP/IP, ports, protocols)
-- NIST CSF & Essential Eight
-- TryHackMe / Blue Team / SOC labs
-- Python basics for Cybersecurity
-- Identity and Access Management (IAM)
-- SIEM and SOC tools (Wazuh, Splunk)
-- Security Principles
-- Pentesting Fundamentals
-- OWASP Zap
+👋 About Me
 
-## Tools and Platforms I have Explored:
-- TryHackMe (Currently 14 day streak)
-- Wireshark
-- Kali Linux
-- Suricata
-- Wazuh
-- VirtualBox/Docker
-- Git & GitHub
+Hi, I’m Christopher — a first-year Cybersecurity student passionate about ethical hacking, digital forensics, and understanding how systems break (so I can fix them).
+I’m currently studying at Federation University, building my technical foundation through coursework, labs, and hands-on challenges from TryHackMe.
 
-## Current Projects & Labs in Progress:
-- Asset Inventory & Risk Register (NIST CSF Identity)
-- Firewall rules spreadsheet (pfSense simulation)
-- SIEM alert walkthroughs
-- Basic Bash automation
-- Python password generator or port scanner
-- SOC playbook notes
-- IAM and Zero Trust reflection work
+This portfolio documents my journey from student to cybersecurity professional — showcasing the skills, tools, and projects I’m developing along the way.
 
-## Certifications I'm working towards:
-- TryHackMe SOC Level 1 Path
-- TryHackMe Junior Penetration Tester
-- CEH (post-bachelor degree)
-- CompTIA Security+ (future goal)
+⸻
 
-## Future Goals:
-- Gain knowledge and experience in SOC Analyst & Penetration Tester
-- Co-author academic research during my degree
-- Build my cybersecurity portfolio to strengthen my long-term goal
-- Work towards my PhD to become an associate professor/professor for a research & teaching career
+🧩 Currently Learning
+	•	🐧 Linux Fundamentals & Bash
+	•	🌐 Networking (TCP/IP, ports, protocols)
+	•	🛡️ NIST CSF & Essential Eight
+	•	🔍 Blue Team / SOC labs on TryHackMe
+	•	🐍 Python for Cybersecurity
+	•	🔐 Identity & Access Management (IAM)
+	•	📊 SIEM & SOC Tools (Wazuh, Splunk)
+	•	🧱 Security Principles & Governance
+	•	🧨 Penetration Testing Fundamentals
+	•	⚙️ OWASP ZAP
 
-## Contact:
-- christopherhenshaw@students.federation.edu.au
-- https://www.linkedin.com/in/christopher-henshaw-382b6237a/
+⸻
 
+💻 Projects & Labs in Progress
+	•	Asset Inventory & Risk Register (NIST CSF: Identify): Classifying assets and assessing risk exposure.
+	•	Firewall Rules Simulation: Designing pfSense firewall configurations in a virtual network.
+	•	SIEM Alert Walkthroughs: Analysing alert pipelines and response actions in Wazuh.
+	•	Bash Automation Scripts: Automating log rotation and system checks.
+	•	Python Tools: Building a password generator and basic port scanner.
+	•	SOC Playbook Notes: Creating reference notes for incident response procedures.
+	•	IAM & Zero Trust Reflection: Exploring identity governance and trust models in modern environments.
+
+🧩 Project repositories, screenshots, and write-ups will be added as labs are completed.
+
+⸻
+
+🧰 Tools & Platforms Explored
+	•	🧠 TryHackMe (14-day streak)
+	•	💻 Kali Linux
+	•	🌐 Wireshark
+	•	🧾 Suricata
+	•	🧱 Wazuh
+	•	🧩 VirtualBox / Docker
+	•	🔧 Git & GitHub
+
+⸻
+
+🎓 Certifications in Progress
+	•	🧠 TryHackMe SOC Level 1 Path
+	•	🕵️ TryHackMe Junior Penetration Tester
+	•	💼 CEH (post-degree goal)
+	•	🔒 CompTIA Security+ (planned)
+
+⸻
+
+🚀 Future Goals
+	•	Gain professional experience as a SOC Analyst or Penetration Tester
+	•	Co-author academic cybersecurity research during my degree
+	•	Build a strong, hands-on cybersecurity portfolio
+	•	Pursue a PhD and become an Associate Professor of Cybersecurity
+
+⸻
+
+📬 Contact
+
+📧 Email: christopherhenshaw@students.federation.edu.au
+🔗 LinkedIn: Christopher Henshaw
+💻 GitHub: MrChristopherHen
