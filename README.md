@@ -41,6 +41,8 @@ This portfolio documents my journey from student to cybersecurity professional �
 ---
 
 ## 🧩 Project Repositories
+- [🎤 TryHackMe Presentation — Endpoint Security](https://github.com/MrChristopherHen/tryhackme-presentation)
+  - A walkthrough of endpoint threats and defenses, with slides and supporting notes.
 
 ---
 
