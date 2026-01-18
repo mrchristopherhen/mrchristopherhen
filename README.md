@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hi, I’m Christopher — a first-year Cybersecurity student passionate about ethical hacking, digital forensics, and understanding how systems break (so I can fix them).  
+Hi, I’m Christopher — a second-year Cybersecurity student passionate about ethical hacking, digital forensics, and understanding how systems break (so I can fix them).  
 I’m currently studying at Federation University, building my technical foundation through coursework, labs, and hands-on challenges from TryHackMe.
 
 This portfolio documents my journey from student to cybersecurity professional — showcasing the skills, tools, and projects I’m developing along the way.
